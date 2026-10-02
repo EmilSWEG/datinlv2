@@ -145,7 +145,7 @@ som returnerer en streng-representation av en matrise. Om matrisen er følgende:
 da skal strengen som returneres ha følgende innhold:
 
 ```
-1 2 3 \n4 5 6 \n7 8 9 \n
+1 2 3\n4 5 6\n7 8 9\n
 ```
 
 #### c) Implementer en metode
